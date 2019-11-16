@@ -1,0 +1,10 @@
+
+print("jijiiji")
+print("jijiiji")
+print("jijiiji")
+print("jijiiji")
+print("jijiiji")
+print("jijiiji")
+print("jijiiji")
+print("jijiiji")
+print("jijiiji")
